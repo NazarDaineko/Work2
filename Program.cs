@@ -17,3 +17,4 @@ Console.WriteLine(pattern,
                   matPoints,
                   physPoints);
 Console.ReadLine();
+
